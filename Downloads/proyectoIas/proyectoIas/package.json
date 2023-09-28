@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@lottiefiles/react-lottie-player": "^3.5.3",
+    "react-lottie": "^1.2.3"
+  }
+}
